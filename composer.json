@@ -1,0 +1,16 @@
+{
+  "name": "gizmore/phpgdo-dog-twitter",
+  "description": "Composer dependencies for phpgdo-dog-twitter Module_DogTwitter.php",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "noweh/twitter-api-v2": "*"
+  },
+  "authors": [
+    {
+      "name": "gizmore",
+      "email": "gizmore@wechall.net"
+    }
+  ]
+}
